@@ -1,6 +1,6 @@
 :root {
   --heading-margin: 80px;
-  --section-color: #bb2469;
+  --section-color: #7fffd4;
   --section-heading-size: 5rem;
   --section-heading-size-mobile: 3.5rem;
   --section-sub-heading-size: 1.5rem;
@@ -33,7 +33,7 @@
   bottom: 25px;
   right: 25px;
   background-color: white;
-  color: #bb2469;
+  color: #bb2424;
   border-radius: 5px;
   display: flex;
   height: 30px;

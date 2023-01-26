@@ -28,6 +28,10 @@
   justify-content: flex-start;
 }
 
+.navbar-left > a:hover {
+  color: aquamarine;
+}
+
 .navbar-right-options {
   color: var(--section-grey-color);
   width: 15%;

@@ -19,7 +19,7 @@ const HomePage = () => {
             this is<span> Darshan</span>,
           </p>
         </div>
-        <span>a human.</span>
+        <span>just another human.</span>
       </div>      
       <div className="home-page-footer">
         <a
@@ -50,5 +50,4 @@ const HomePage = () => {
     </div>
   );
 };
-
 export default HomePage;

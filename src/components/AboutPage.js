@@ -9,8 +9,10 @@ const AboutPage = () => {
       </div>
       <div className="about-info">
         <div className="about-left">
+          <p>
           Myself Darshan S, an Electronics and Communication Engg. student at NSS College of Engineering, Palakkad. 
-          <br></br>I'm a quick learner, trying to find my way through web development at the moment :)
+          <br></br>This is me trying to find my way through web development at the moment :)
+          </p>
         </div>
         <div className="about-right">
           <p>
