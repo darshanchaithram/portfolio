@@ -14,13 +14,13 @@ const HomePage = () => {
       </div>
       <div className="home-page">
         <div>
-          <span>hey,</span>
+          <span>hey👋,</span>
           <p>
             this is<span> Darshan</span>,
           </p>
         </div>
         <span>a human.</span>
-      </div>
+      </div>      
       <div className="home-page-footer">
         <a
           href="https://github.com/darshanchaithram/"
