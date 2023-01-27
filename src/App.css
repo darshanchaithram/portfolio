@@ -21,6 +21,7 @@
 .app-section {
   padding: 0 25px;
   margin-bottom: var(--heading-margin);
+  background-image: url("bg-blacked2.png");
 }
 
 .app-section-contact {
@@ -33,7 +34,7 @@
   bottom: 25px;
   right: 25px;
   background-color: white;
-  color: #bb2424;
+  color: #7fffd4;
   border-radius: 5px;
   display: flex;
   height: 30px;
