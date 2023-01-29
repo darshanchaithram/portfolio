@@ -23,7 +23,17 @@ const AboutPage = () => {
           </p>
         </div>
       </div>
-    </div>
+      <div class="spinner">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      </div>
   );
 };
 
