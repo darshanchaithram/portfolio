@@ -20,7 +20,7 @@ const HomePage = () => {
           </p>
         </div>
         <span>just another human.</span>
-        <img src="/Images/test1,jpg"></img> 
+        <img src="/Images/test1.jpg"></img> 
       </div>      
       <div className="home-page-footer">
         <a
